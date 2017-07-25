@@ -1,7 +1,7 @@
 # Siegfried2Premis
-Stylesheet to transform output of the Siegfried format identification tool to the PREMIS/XML format.
+Stylesheet to transform JSON output of the Siegfried format identification tool to the PREMIS/XML format.
 
-To use this stylesheet, you'll have to transform it to XML first, and it should be structered like this:
+To use this stylesheet, you'll have to transform the Siegfried JSON output to XML first, and it should be structered like this:
 
 \<?xml version="1.0" encoding="UTF-8"?>
 \<root>
