@@ -26,7 +26,10 @@ To use this stylesheet, you'll have to transform it to XML first, and it should 
 
 To apply the template, use a tool like Saxon (or any other XML transformation tool you like)
 e.g. (on Mac):
+
   $ saxon -s:path/to/source.xml -xsl:path/to/stylesheet.xsl -o:path/to/output.xml 
+  
 or (Windows):
+
   $ Transform -s:/path/to/siegfriedout.xml -xsl:/path/to/SF2PREMIS.xsl -o:/path/to/PREMIS- APA.xml
  
