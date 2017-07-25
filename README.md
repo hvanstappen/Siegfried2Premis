@@ -6,9 +6,7 @@ To use this stylesheet, you'll have to transform it to XML first, and it should 
 \<?xml version="1.0" encoding="UTF-8"?>
 \<root>
 	\<created>2017-06-29T14:53:59+02:00\</created>
-	
 	\<files>
-	
 		\<errors>empty source\</errors>
 		\<filename>/path/to/file\</filename>
 		\<filesize>0\</filesize>
